@@ -31,3 +31,10 @@ C:\Users\JUAN-\source\repos\JWT\JWT\obj\Debug\net7.0\refint\JWT.dll
 C:\Users\JUAN-\source\repos\JWT\JWT\obj\Debug\net7.0\JWT.pdb
 C:\Users\JUAN-\source\repos\JWT\JWT\obj\Debug\net7.0\JWT.genruntimeconfig.cache
 C:\Users\JUAN-\source\repos\JWT\JWT\obj\Debug\net7.0\ref\JWT.dll
+C:\Users\JUAN-\source\repos\JWT\JWT\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\JUAN-\source\repos\JWT\JWT\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\JUAN-\source\repos\JWT\JWT\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\JUAN-\source\repos\JWT\JWT\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\JUAN-\source\repos\JWT\JWT\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\JUAN-\source\repos\JWT\JWT\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\JUAN-\source\repos\JWT\JWT\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
